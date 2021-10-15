@@ -1,0 +1,33 @@
+.travel-post {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 999;
+    overflow: auto;
+    height: auto;
+    background-color: rgb(161, 184, 185);
+}
+
+.travel-content {
+    background-color: rgb(161, 184, 185);
+    max-width: 1200px;
+    position: relative;
+}
+
+.travel-content img {
+    display: block;
+    max-width: 100%;
+    max-height: calc(100vh - 150px);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.travel-content h3 {
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.travel-item img {
+    display: block;
+    width: 100%;
+    cursor: zoom-in;
+}
+.travel-item h4 {
+    text-shadow: 2px 2px 4px #99BBAD;
+    color:#FF0000;
+}

@@ -1,0 +1,14 @@
+.app-search {
+    margin-bottom: 20px;
+}
+
+.app-search-input {
+    box-sizing: border-box;
+    border: 1px solid rgb(206, 115, 115);
+    font-size: 16px;
+    width: 100%;
+    padding: 8px;
+}
+.app-search h2 {
+    text-align: center;
+}
